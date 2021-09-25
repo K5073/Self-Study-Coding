@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-/*
+
 int main()
 {
 	double light_speed = 300000;
@@ -9,11 +9,11 @@ int main()
 	double time;
 	time = distance / light_speed;
 
-	printf("ºûÀÇ ¼Óµµ´Â %fkm/s \n", light_speed);
-	printf("ÅÂ¾ç°ú Áö±¸¿ÍÀÇ °Å¸® %fkm \n", distance);
-	printf("µµ´Ş ½Ã°£Àº %fÃÊ\n", time);
+	printf("ë¹›ì˜ ì†ë„ëŠ” %fkm/s \n", light_speed);
+	printf("íƒœì–‘ê³¼ ì§€êµ¬ì™€ì˜ ê±°ë¦¬ %fkm \n", distance);
+	printf("ë„ë‹¬ ì‹œê°„ì€ %fì´ˆ\n", time);
 
 	system("pause");
 	return 0;
 }
- */
+ 
